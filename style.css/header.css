@@ -1,0 +1,35 @@
+#header{
+    width: 100%;
+    height: 117px;
+    display: flex;
+    justify-content: space-around;
+    border-top-style: solid;
+    border-top-width:5px;
+    border-top-color:#d40926 ;
+
+}
+.titulo-header{
+    margin-left: -1128px;
+    color: #a99298;
+}
+.ul-header{
+    display: flex;
+    align-items: center;
+    list-style-type: none; 
+}
+.li-header{
+    color: #aca8a9;
+    padding:50px 20px 50px  ;
+}
+.li-header:hover{
+    background-color:#d40926;
+}
+.campana{
+    padding:20px;
+    font-size: 50px;
+    color: #f7c31f;
+}
+.logo-nevada{
+    width: 120px;
+    height: 110px;
+}

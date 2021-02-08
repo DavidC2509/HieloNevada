@@ -1,0 +1,171 @@
+#main {
+    width: 100%;
+    display: block;
+}
+
+.banner-medio {
+    width: 100%;
+}
+
+#ultimo-li {
+    margin-right: 35px;
+}
+
+.banner-naranja-medio {
+    height: 280px;
+    text-align: center;
+    background-color: #d40926;
+    color: white;
+    margin-top: -4px;
+}
+
+.titulo-banner-naranja {
+    margin-top: 0px;
+    padding-top: 60px;
+}
+
+.descripcion-banner {
+    font-size: 22px;
+}
+
+.botones-banner {
+    display: none;
+    padding: 10px 20px 10px;
+    /*margin-left: 15px;*/
+    background-color: #ac6f81;
+    color: #fdbe25;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: none;
+}
+
+.banner-medio-doble {
+
+    display: none;
+    justify-content: space-between;
+    width: 100%;
+    height: 300px;
+}
+
+.bloque-doble {
+    display: flex;
+}
+
+.banner-medio-izquierda {
+    display: block;
+}
+
+.imagenes-bloque-medio {
+    width: 90px;
+    height: 90px;
+    margin: 60px 50px;
+}
+
+.boton-bloque-doble {
+    color: white;
+    background-color: #fdbd1f;
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: none;
+}
+
+.titulo-banner-medio {
+    margin: 50px 0px 5px;
+    color: #ad6c82;
+}
+
+.subtitulo-banner-medio {
+    margin-top: 5px;
+    color: #fdbf1c;
+}
+
+#bloque-izquierda-borde {
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-right-color: #e2e2e2;
+}
+
+.banner-medio-morado {
+    display: flex;
+    width: 100%;
+    height: 350px;
+    background-color: #ac6f81;
+}
+
+.imagen-tablet {
+    margin: 65px 70px;
+}
+
+.titulo-banner-morado {
+    margin: 50px 0px 5px;
+    color: white;
+}
+
+.subtitulo-banner-morado {
+    margin-top: 5px;
+    color: white;
+}
+
+.parrafo-banner-morado {
+    color: #febf26;
+}
+
+.boton-banner-morado {
+    color: #aa707f;
+    background-color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: none;
+}
+
+.banner-final {
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    position: relative;
+
+}
+
+.banner-final i {
+    position: absolute;
+}
+
+.titulo-banner-final {
+    margin-top: 70px;
+    margin-bottom: 0px;
+    color: #ae6f80;
+}
+
+.subtitulo-banner-final {
+    margin-top: 5px;
+    color: #ffca50;
+}
+
+.imagen-laptop-final {
+    width: 545px;
+    height: 355px;
+    margin-top: 30px;
+}
+
+.banner-final #flecha-izquierda {
+    left: 523px;
+    top: 278px;
+    font-size: 40px;
+    color: #a66d7e
+}
+
+.banner-final #flecha-derecha {
+    right: 523px;
+    top: 278px;
+    font-size: 40px;
+    color: #a66d7e
+}
+
+.ver-productos {
+    display: flex;
+}
+
+.imagen-productos {
+    width: 360px;
+}
